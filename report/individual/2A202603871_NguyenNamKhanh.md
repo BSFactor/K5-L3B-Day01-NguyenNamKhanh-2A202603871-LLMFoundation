@@ -143,6 +143,8 @@ for text in sub_10:
 
 json_cost = (json_input_tokens * input_price + json_output_tokens * output_price) / 1000000
 
+Kết quả:
+Kết quả cho thấy json tốn khoảng 50% nhiều hơn bản 1 từ. Đối với việc debug, đây có thể là 1 phương pháp xứng đáng. Với 1 bài toán nhỏ đây không phải là 1 chi phí lớn.
 
 ## 6. Phương án cho sản phẩm thật
 
